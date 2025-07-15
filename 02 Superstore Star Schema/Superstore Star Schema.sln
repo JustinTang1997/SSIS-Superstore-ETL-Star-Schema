@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36221.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "Superstore Star Schema", "Superstore Star Schema.dtproj", "{D85E7235-6E92-35F8-9620-E5024E92CF99}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D85E7235-6E92-35F8-9620-E5024E92CF99}.Development|Default.ActiveCfg = Development
+		{D85E7235-6E92-35F8-9620-E5024E92CF99}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5FE5F134-76D7-4B2E-9F27-B3F5539C9107}
+	EndGlobalSection
+EndGlobal

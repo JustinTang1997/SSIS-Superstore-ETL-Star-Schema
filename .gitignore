@@ -1,0 +1,20 @@
+# Ignore Visual Studio cache folders
+.vs/
+*.user
+*.suo
+*.vspx
+*.vsidx
+
+# Ignore compiled binaries and DBs
+bin/
+obj/
+*.mdf
+*.ldf
+
+# Ignore system and temp files
+Thumbs.db
+.DS_Store
+
+# Ignore SSIS Deployment files if present
+*.ispac
+*.bak
